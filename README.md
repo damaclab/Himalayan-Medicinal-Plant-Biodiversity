@@ -5,7 +5,10 @@ Period-wise range shift estimation and future distribution using shared socio-ec
 
 This repository contains code and instructions for estimating probabilistic niche distribution of Taxus wallichiana driven by shared socio-economic pathways guided climate change performing using R.
 
-Authors: Dhriti Chakraborty, Kartick Chandra Mondal, Somnath Mukhopadhyay.
+
+
+
+
 
 Table of Contents:
 
